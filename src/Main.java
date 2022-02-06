@@ -1,7 +1,7 @@
 public class Main {
-    public static void main (String[] args){
+    public static void main(String[] args) {
 
-     // входные данные
+        // входные данные
         int ticketPrice = 500; //Стоимость билета
         int priceMiles = 20; // Стоимость одной мили
 
